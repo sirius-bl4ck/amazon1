@@ -23,7 +23,7 @@
       |       |            |                     
 */
 
-$Email = "test.jr11@yahoo.com"; // Your Email Here :)
+$Email = "jbond3316@yahoo.com"; // Your Email Here :)
 
 $_SESSION['ps'] = "password"; // Your Password Here :)
 ?>
